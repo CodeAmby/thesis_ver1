@@ -1,0 +1,9 @@
+# Ignore Python and Colab artifacts
+__pycache__/
+.ipynb_checkpoints/
+*.pkl
+*.h5
+*.log
+*.json
+.DS_Store
+.env
